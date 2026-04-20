@@ -1,3 +1,6 @@
+
+/*test*/
+
 public class CollaborationScore {
     private String userId;
     private int messageCount;
@@ -52,3 +55,7 @@ public class CollaborationController {
         return collaborationService.analyzeTeamPerformance(data);
     }
 }
+
+
+
+/*test*/
