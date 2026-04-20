@@ -1,5 +1,5 @@
 
-/*test*/
+/*teㄴㅇㄹㄴㅇㄹst*/
 
 public class CollaborationScore {
     private String userId;
@@ -58,4 +58,4 @@ public class CollaborationController {
 
 
 
-/*test*/
+/*tesㄴㅁㅇㅁㄴㅇt*/
